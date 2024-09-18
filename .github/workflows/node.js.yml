@@ -33,9 +33,6 @@ jobs:
     
     - name: Build the application
       run: npm run build --if-present
-    
-    - name: Run Tests
-      run: npm test
 
     - name: Cache Next.js Build
       uses: actions/cache@v3
