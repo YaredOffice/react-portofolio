@@ -131,10 +131,10 @@ export default function Home() {
                             <h4 className="py-4 text-teal-600">
                                 Design Tools I Use
                             </h4>
-                            <p className="text-gray-800 py-1">Photoshop</p>
-                            <p className="text-gray-800 py-1">Illustrator</p>
-                            <p className="text-gray-800 py-1">Figma</p>
-                            <p className="text-gray-800 py-1">InDesign</p>
+                            <p className="text-gray-800 py-1">(Node, React, Next) Framework</p>
+                            <p className="text-gray-800 py-1">Flutter Framework </p>
+                            <p className="text-gray-800 py-1">PHP Language</p>
+                            <p className="text-gray-800 py-1">PyTorch, MediaPipe, openCV</p>
                         </div>
                         <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
                             <Image
@@ -152,12 +152,9 @@ export default function Home() {
                                 it up.
                             </p>
                             <h4 className="py-4 text-teal-600">
-                                Design Tools I Use
+                                Availability for Consulting
                             </h4>
-                            <p className="text-gray-800 py-1">Photoshop</p>
-                            <p className="text-gray-800 py-1">Illustrator</p>
-                            <p className="text-gray-800 py-1">Figma</p>
-                            <p className="text-gray-800 py-1">InDesign</p>
+                            <p className="text-gray-800 py-1">Part-time</p>
                         </div>
                     </div>
                 </section>
